@@ -1,6 +1,6 @@
-# MONOPOLY-BITCOIN-EDITION
+# MONOPOLY-BITCOIN-CLASSIC-EDITION
 Rivisitazione non-ufficiale del gioco Monopoly con valuta Bitcoin
-![alt text](https://github.com/Cmod777/MONOPOLY-BITCOIN-EDITION/blob/main/PDF/Copertina.png) 
+![alt text](https://github.com/Mendace/MONOPOLY-BITCOIN-CLASSIC-EDITION/blob/main/Bitcoinopoly/Grafica_scatola.png) 
 
 In allegato tabellone di gioco, pedine e tessere da stampare e ritagliare.
 Questa versione del gioco è pensata per essere sfruttata con Lightning Network, transazioni facili e immediate con fee basse.
